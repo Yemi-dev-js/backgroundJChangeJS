@@ -11,10 +11,11 @@ body{
   position: relative;
   top: 40vh;
   margin: 0 auto;
-  background-color: red;
+  background-color: white;
   border-radius: 50%;
   border: 0.1px solid;
   box-shadow: 0 5px 3px 0 grey;
+  cursor: pointer;
 }
 .wordColor{
   position: relative;
